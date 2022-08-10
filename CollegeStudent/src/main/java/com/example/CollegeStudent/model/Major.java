@@ -1,0 +1,20 @@
+package com.example.CollegeStudent.model;
+
+public enum Major {
+    COMPUTER_SCIENCE,
+    ELECTRICAL_ENGINEERING,
+    CHEMICAL_ENGINEERING,
+    BUSINESS_MANAGEMENT,
+    ACCOUNTING,
+    ENGLISH,
+    HISTORY,
+    PSYCHOLOGY,
+    MATHEMATICS,
+    BIOLOGY,
+    WOMENS_STUDIES,
+    ART,
+    EDUCATION,
+    COMMUNICATIONS,
+    THEATRE,
+    GRAPHIC_DESIGN
+}
